@@ -1,0 +1,18 @@
+* Introduction
+** Sudden Realization
+
+I had no idea that GitHub would render org-mode files. Perhaps this is
+a game-changer?
+
+** Another Realization
+
+Just to have another point. I feel like I need some tasks:
+
+*** TODO Perform a task
+
+*** TODO Do some other things
+
+ * [ ] that are
+ * [ ] represented in
+ * [ ] a list of
+ * [ ] checkboxes
